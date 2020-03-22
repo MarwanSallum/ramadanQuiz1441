@@ -1,0 +1,42 @@
+
+{
+    "response_code": 0,
+    "results": [
+    {
+    "category": "Ramadan 1441",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "ما هي الصلاة التي يركع فيها المصلي أربع مرات ويسجد أربع مرات؟",
+    "correct_answer": "صلاة الخسوف والكسوف",
+    "incorrect_answers": [
+    "صلاة العيدين",
+    "صلاة الإستسقاء",
+    "صلاة النافلة"
+    ]
+    },
+    {
+    "category": "Ramadan 1441",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "من أول من صنف تفسير القرآن الكريم بالإسناد؟",
+    "correct_answer": "أنس بن مالك",
+    "incorrect_answers": [
+    "علي بن أبي طالب",
+    "سعد بن معاذ",
+    "عمرو ابن العاص"
+    ]
+    },
+    {
+    "category": "Ramadan 1441",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "من أول من قدر الساعات الأنثى عشرة؟",
+    "correct_answer": "نوح عليه السلام",
+    "incorrect_answers": [
+    "إبراهيم عليه السلام",
+    "أدم عليه السلام",
+    "سليمان عليه السلام"
+    ]
+    }
+    ]
+    }
